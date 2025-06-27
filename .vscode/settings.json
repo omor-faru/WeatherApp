@@ -1,5 +1,0 @@
-{
-    "git.enableCommitSigning": false,
-    "git.enableSmartCommit": false,
-    "git.enabled": false
-}
